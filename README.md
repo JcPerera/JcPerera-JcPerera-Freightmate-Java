@@ -1,6 +1,7 @@
 # JcPerera-JcPerera-Freightmate-Java
 How to run this Programme
   1) Manual Method
+  
       Download the git repo.
       Open a cmd prompt and navigate to the file location
       Compile the java files using following commands:
@@ -11,6 +12,7 @@ How to run this Programme
         java com.keyGen.Main 
       
   2) Using intelliJ
+  
         Import the project and press the Run button or "Shift + F10"
 
 To edit the Inputs change the values in CarrierAccount object in the Main.class
